@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30046a96-4ce0-41ce-bda2-85d0fe31f821" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WZNkoHRNnD1qErJEy76Z85JqYl" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.SoalNo3">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Demo" />
+      <module name="tugas-uas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="tugas-uas" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Numbers" />
+      <module name="tugas-uas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoalNo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soalno3.SoalNo3" />
+      <module name="tugas-uas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="soalno3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoalNo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soalno4.SoalNo4" />
+      <module name="tugas-uas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="soalno4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Numbers" />
+      <item itemvalue="Application.SoalNo4" />
+      <item itemvalue="Application.SoalNo3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SoalNo3" />
+        <item itemvalue="Application.SoalNo4" />
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30046a96-4ce0-41ce-bda2-85d0fe31f821" name="Default Changelist" comment="" />
+      <created>1579353303000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579353303000</updated>
+      <workItem from="1579353327603" duration="5159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579357868405">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="478" y="170" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1304.768@62.0.1304.768" timestamp="1579357868405" />
+    <state width="1224" height="283" key="GridCell.Tab.0.bottom" timestamp="1579358744438">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1224" height="283" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1579358744438" />
+    <state width="1224" height="283" key="GridCell.Tab.0.center" timestamp="1579358744438">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1224" height="283" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1579358744438" />
+    <state width="1224" height="283" key="GridCell.Tab.0.left" timestamp="1579358744437">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1224" height="283" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1579358744437" />
+    <state width="1224" height="283" key="GridCell.Tab.0.right" timestamp="1579358744438">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1224" height="283" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1579358744438" />
+    <state x="419" y="268" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579354877257">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="419" y="268" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/62.0.1304.768@62.0.1304.768" timestamp="1579354877257" />
+  </component>
+</project>
